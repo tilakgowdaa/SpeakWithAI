@@ -352,7 +352,7 @@ export default function Home() {
   return (
     <div className="space-y-8">
       <header className="text-center">
-        <h1 className="text-3xl font-bold mb-2">Data Command</h1>
+        <h1 className="text-3xl font-bold mb-2">SPEAK WITH AI</h1>
         <p className="text-gray-600">
           Fill out the form using your voice. Just speak naturally about your information.
         </p>

@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Data Command - Voice-Controlled Form',
+  title: 'Speak With AI - Voice-Controlled Form',
   description: 'Fill out forms using just your voice',
 };
 
